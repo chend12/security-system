@@ -1,0 +1,12 @@
+{
+    "chendudu": {
+        "password_hash": "5b15d370bdb8f7cce6df6baa8892349f2a0945898139262c4b12a4f6082d2233",
+        "role": "admin",
+        "managed_district": null
+    },
+    "orna": {
+        "password_hash": "4f7c3db45e9632a80b205ed445ef228f8d9eefda5cdc4d5addd3ff46afd6d6ff",
+        "role": "admin",
+        "managed_district": null
+    }
+}
